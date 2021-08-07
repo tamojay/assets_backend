@@ -1,0 +1,53 @@
+
+[
+   {  
+      "id": "1",
+      "sapid": "10000394494",
+      "name": "A923282",
+      "type": "motor",
+      "description": "Sleve Blower",
+      "resource": "W8921",
+      "location": "A1 ZONE-12 B42",
+      "plantsite": "103"
+   },
+   {  
+      "id": "2",
+      "sapid": "10000394495",
+      "name": "A923272",
+      "type": "blower",
+      "description": "Pulley",
+      "resource": "W8931",
+      "location": "A1 ZONE-12 B43",
+      "plantsite": "103"
+   },
+   {  
+      "id": "3",
+      "sapid": "10000394496",
+      "name": "A923292",
+      "type": "conveyer",
+      "description": "Lever",
+      "resource": "W8421",
+      "location": "A1 ZONE-12 B66",
+      "plantsite": "103"
+   },
+   {  
+      "id": "4",
+      "sapid": "10000396494",
+      "name": "A923282",
+      "type": "conveyer",
+      "description": "Conveyer",
+      "resource": "W8921",
+      "location": "A1 ZONE-12 B72",
+      "plantsite": "105"
+   },
+   {  
+      "id": "5",
+      "sap id": "10000394599",
+      "machine name": "A923282",
+      "type": "turbine",
+      "description": "Extended Pulley",
+      "resource": "W8900",
+      "location": "A1 ZONE-12 B110",
+      "plant site": "105"
+   }
+]
